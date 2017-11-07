@@ -1,0 +1,36 @@
+#contatos-dados-nav {
+    margin-top: 15px;
+}
+
+div#tab-emails,
+div#tab-telefones {
+    height: 250px;
+    overflow-y: scroll;
+}
+
+.title {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+#pagination-contatos {
+    text-align: center;
+}
+
+#table-contatos {
+    height: 350px;
+}
+
+div#search-box {
+    float: right;
+    margin-right: 12px;
+}
+
+div#search-box a {
+    margin-left: 12px;
+}
+
+div#pagination-box {
+    float: right;
+    margin-right: 12px;
+}

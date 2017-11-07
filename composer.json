@@ -1,0 +1,16 @@
+{
+    "name": "oliveira27/mediapost",
+    "description": "Projeto desenvolvido para o processo seletivo de desenvolvedor PHP Jr da empresa @MediaPost",
+    "license": "MIT",
+    "authors": [{
+        "name": "Leandro de Oliveira",
+        "email": "oliveira.dev1997@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\MediaPost\\": "app/"
+        }
+    }
+}
